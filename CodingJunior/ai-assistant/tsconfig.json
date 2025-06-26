@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+	  "target": "es2020",
+	  "lib": ["es2020", "DOM"],
+	  "module": "commonjs",
+	  "outDir": "out",
+	  "rootDir": "src",
+	  "strict": true,
+	  "esModuleInterop": true,
+	  "skipLibCheck": true
+	},
+	"exclude": [
+	  "node_modules",
+	  ".vscode-test",
+	  "media/webview-ui"
+	]
+  }
+  
